@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Board background -->
+  <rect width="32" height="32" rx="6" fill="#0a1628"/>
+  <!-- Tile 1: S -->
+  <rect x="2" y="2" width="13" height="13" rx="2" fill="#fde68a"/>
+  <text x="8.5" y="12" font-family="Arial Black, Arial" font-weight="900" font-size="10" fill="#92400e" text-anchor="middle">S</text>
+  <text x="13" y="14.5" font-family="Arial" font-weight="bold" font-size="4" fill="#b45309" text-anchor="middle">1</text>
+  <!-- Tile 2: C -->
+  <rect x="17" y="2" width="13" height="13" rx="2" fill="#fde68a"/>
+  <text x="23.5" y="12" font-family="Arial Black, Arial" font-weight="900" font-size="10" fill="#92400e" text-anchor="middle">C</text>
+  <text x="28" y="14.5" font-family="Arial" font-weight="bold" font-size="4" fill="#b45309" text-anchor="middle">3</text>
+  <!-- Tile 3: R -->
+  <rect x="2" y="17" width="13" height="13" rx="2" fill="#fde68a"/>
+  <text x="8.5" y="27" font-family="Arial Black, Arial" font-weight="900" font-size="10" fill="#92400e" text-anchor="middle">R</text>
+  <text x="13" y="29.5" font-family="Arial" font-weight="bold" font-size="4" fill="#b45309" text-anchor="middle">1</text>
+  <!-- Tile 4: A -->
+  <rect x="17" y="17" width="13" height="13" rx="2" fill="#67e8f9"/>
+  <text x="23.5" y="27" font-family="Arial Black, Arial" font-weight="900" font-size="10" fill="#0e7490" text-anchor="middle">A</text>
+  <text x="28" y="29.5" font-family="Arial" font-weight="bold" font-size="4" fill="#0e7490" text-anchor="middle">1</text>
+</svg>
